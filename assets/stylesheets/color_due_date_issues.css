@@ -1,0 +1,12 @@
+/* 当日が期日のチケット(due date) */
+tr.odd.due_date {
+  background: #D8FFAC
+}
+
+tr.even.due_date {
+  background: #E8FFBC
+}
+
+tr.odd.due_date td, tr.even.due_date td {
+  border-color: #BDA
+}
