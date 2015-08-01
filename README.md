@@ -1,7 +1,7 @@
 # Redmine Color Due Date Plugin
 This plugin colors the issue that is due today.
 
-![plugin image](https://github.com/minoru-nagasawa/redmine_color_due_date_issues/plugin_image.png)
+![plugin image](plugin_image.png)
 
 ## Compatibility
 This plugin version is compatible only with Redmine 2.x.
